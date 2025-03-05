@@ -1,4 +1,4 @@
-![Скриншот](images/go.jpeg.webp)
+![Скриншот](images/Go.jpeg)
 
 # Todo-app
 ## Описание проекта:
