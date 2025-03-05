@@ -60,5 +60,5 @@ The project should start successfully, and you will see output in the terminal i
 To run the project correctly, the following are required:
 
 1. Go version 1.18 or higher.
-2. PostgreSQL 13 or higher.
+2. SQLite
 3. Git.

@@ -61,5 +61,5 @@ go run main.go
 Для корректной работы проекта требуется:
 
 1. Go версии 1.18 или выше.
-2. PostgreSQL 13 or higher
+2. SQLite
 3. Git
